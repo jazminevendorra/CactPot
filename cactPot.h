@@ -1,7 +1,4 @@
 /*
-	Ian Nodarse
-	Jonathan Vilchez
-	Jazmin Even Dorrra
 
 	cactPot.h
 
